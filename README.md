@@ -27,7 +27,7 @@
 
 <!-- 技术栈 -->
 ## 🛠️ 水下装备
-![](https://skillicons.dev/icons?i=rust,python,linux,docker,kubernetes,git,github,neovim)
+![](https://skillicons.dev/icons?i=cs,rust,python,linux,docker,git,github,clion,go,html,idea,java,kotlin,maven,mysql,pycharm,py,rider)
 
 <!-- GitHub数据统计 -->
 ## 📊 鱼塘数据
