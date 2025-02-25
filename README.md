@@ -42,7 +42,7 @@
 | 项目 | 描述 | 技术栈 |
 |------|------|--------|
 | [DrivingSchoolManagementSystem](https://github.com/1312255201/DrivingSchoolManagementSystem) | 比奇堡的驾校管理系统 | JAVA Web 🦀 |
-
+| [ServerMonitor](https://github.com/1312255201/gugufish-server-monitor) | 比奇堡服务器监控系统 | Vue+SpringBoot+SpringSecurity+Redis |
 </details>
 
 <!-- 咕咕语录 -->
